@@ -188,8 +188,8 @@ export default function Home() {
             <Link href="https://github.com/lakhwindersinghx/Stripe-Marketplace.git" className="text-gray-400 hover:text-white">
               Github
             </Link>
-            <Link href="#" className="text-gray-400 hover:text-white">
-              Terms of Service
+            <Link href="https://www.linkedin.com/in/lakhwindersinghx/" className="text-gray-400 hover:text-white">
+              LinkedIn
             </Link>
           </div>
         </div>
